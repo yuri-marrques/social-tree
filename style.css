@@ -53,6 +53,7 @@ ul li a{
     display: flex;
     align-items: center;
     justify-content: center;
+    text-decoration: none;
     font-weight: 600;
     width: 326px;
     height: 49px;
