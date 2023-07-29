@@ -40,6 +40,7 @@ body{
 
 ul{
     list-style: none;
+    color: #B9D;
     text-decoration: none;
     display: flex;
     flex-direction: column;
